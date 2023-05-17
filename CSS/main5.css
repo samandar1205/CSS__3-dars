@@ -1,0 +1,71 @@
+body{
+    background-color:white;
+}
+.text-block {
+width: 1500px;
+    margin: 100px;
+}
+.abc{
+    text-align: center;
+    font-size: 40px;
+    float: left;
+    width: 300px;
+    border: 10px solid darkgray;
+    margin: 10px 20px;
+}
+.abc2{
+    text-align: center;
+    font-size: 40px;
+    float: left;
+    width: 300px;
+    border: 10px dashed darkgray;
+    margin:10px 20px;
+}
+.abc3{
+    text-align: center;
+    font-size: 40px;
+    float: left;
+    width: 300px;
+    border: 10px dotted darkgray;
+    margin:10px 20px;
+}
+.abc4{
+    text-align: center;
+    font-size: 40px;
+    float: left;
+    width: 300px;
+    border: 10px double darkgray;
+    margin:10px 20px;
+}
+.abc5{
+    text-align: center;
+    font-size: 40px;
+    float: left;
+    width: 300px;
+    border: 10px inset darkgray;
+    margin:10px 20px;
+}
+.abc6{
+    text-align: center;
+    font-size: 40px;
+    float: left;
+    width: 300px;
+    border: 10px outset darkgray;
+    margin: 10px 20px;
+}
+.abc7{
+    text-align: center;
+    font-size: 40px;
+    float: left;
+    width: 300px;
+    border: 10px groove darkgray;
+    margin: 10px 20px;
+}
+.abc8{
+    text-align: center;
+    font-size: 40px;
+    float: left;
+    width: 300px;
+    border: 10px ridge darkgray;
+    margin: 10px 20px;
+}

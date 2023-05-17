@@ -1,0 +1,88 @@
+body{
+    background-color: pink;
+}
+.text-block{
+    width: 1200px;
+    margin: 100px auto;
+}
+.abc1{
+    background-color: lavenderblush;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    width: 300px;
+    min-height: 50px;
+    border: 1px solid ;
+    margin: 10px 20px;
+    border-radius: 20px;
+}
+.abc2{
+    background-color: lavenderblush;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    width: 300px;
+    min-height: 50px;
+    border: 1px solid ;
+    margin: 10px 20px;
+    border-radius: 20px;
+}
+.abc3{
+    background-color: lavenderblush;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    width: 300px;
+    min-height: 50px;
+    border: 1px solid ;
+    margin: 10px 20px;
+    border-radius: 20px;
+}
+.abc4{
+    background-color: lavenderblush;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    width: 300px;
+    min-height: 50px;
+    border: 1px solid ;
+    margin: 10px 20px;
+    border-radius: 20px;
+}
+.abc5{
+    background-color: lavenderblush;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    width: 300px;
+    min-height: 50px;
+    border: 1px solid ;
+    margin: 10px 20px;
+    border-radius: 20px;
+}
+.abc6{
+    background-color: lavenderblush;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+    width: 300px;
+    min-height: 50px;
+    border: 1px solid ;
+    margin: 10px 20px;
+    border-radius: 20px;
+}
+.clear{
+    clear: both;
+}
